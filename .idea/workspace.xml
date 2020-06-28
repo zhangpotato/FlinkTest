@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="KafkaWrite:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e7b8a02-472a-4759-8c3c-d8dd18bf20b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Maven\repository" />
+        <option name="mavenHome" value="C:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dtQLpDaxYfdj16Sy6XpaORjI4E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/output" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KafkaWrite">
+    <configuration name="CustomConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomConsumer" />
+      <module name="FlinkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KafkaWrite" />
+      <module name="FlinkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAutoCommitConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyAutoCommitConsumer" />
+      <module name="FlinkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyProducer" />
+      <module name="FlinkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SourceFromKafka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SourceFromKafka" />
+      <module name="FlinkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaWrite" />
+        <item itemvalue="Application.SourceFromKafka" />
+        <item itemvalue="Application.MyAutoCommitConsumer" />
+        <item itemvalue="Application.MyProducer" />
+        <item itemvalue="Application.CustomConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e7b8a02-472a-4759-8c3c-d8dd18bf20b1" name="Default Changelist" comment="" />
+      <created>1593241855347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593241855347</updated>
+      <workItem from="1593241866582" duration="13751000" />
+      <workItem from="1593324382927" duration="11331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1166" y="435" key="#com.intellij.ide.util.MemberChooser" timestamp="1593326026318">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1166" y="435" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1593326026318" />
+    <state x="1641" y="758" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593254427683">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1641" y="758" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593254427683" />
+    <state x="1670" y="664" key="FileChooserDialogImpl" timestamp="1593336448282">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1670" y="664" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1593336448282" />
+    <state width="2007" height="310" key="GridCell.Tab.0.bottom" timestamp="1593336370177">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2007" height="310" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1593336370177" />
+    <state width="2007" height="310" key="GridCell.Tab.0.center" timestamp="1593336370177">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2007" height="310" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1593336370177" />
+    <state width="2007" height="310" key="GridCell.Tab.0.left" timestamp="1593336370177">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2007" height="310" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1593336370177" />
+    <state width="2007" height="310" key="GridCell.Tab.0.right" timestamp="1593336370177">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2007" height="310" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593336370177" />
+    <state width="2007" height="382" key="GridCell.Tab.1.bottom" timestamp="1593331312347">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2007" height="382" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1593331312347" />
+    <state width="2007" height="382" key="GridCell.Tab.1.center" timestamp="1593331312347">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2007" height="382" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1593331312347" />
+    <state width="2007" height="382" key="GridCell.Tab.1.left" timestamp="1593331312347">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2007" height="382" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1593331312347" />
+    <state width="2007" height="382" key="GridCell.Tab.1.right" timestamp="1593331312347">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2007" height="382" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593331312347" />
+    <state x="810" y="355" key="Maven.ArtifactSearchDialog" timestamp="1593249666808">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="810" y="355" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1593249666808" />
+    <state x="1152" y="270" width="1265" height="855" key="SettingsEditor" timestamp="1593254664901">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1152" y="270" width="1265" height="855" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1593254664901" />
+    <state x="1740" y="833" key="classpath-attribute-editor" timestamp="1593252405856">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1740" y="833" key="classpath-attribute-editor/0.0.2560.1400@0.0.2560.1400" timestamp="1593252405856" />
+    <state x="1304" y="301" width="672" height="678" key="search.everywhere.popup" timestamp="1593247527756">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1304" y="301" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1593247527756" />
+  </component>
+</project>
